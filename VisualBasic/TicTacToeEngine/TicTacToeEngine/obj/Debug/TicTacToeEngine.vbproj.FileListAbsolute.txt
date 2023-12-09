@@ -1,0 +1,12 @@
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\bin\Debug\TicTacToeEngine.exe.config
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\bin\Debug\TicTacToeEngine.exe
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\bin\Debug\TicTacToeEngine.pdb
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\bin\Debug\TicTacToeEngine.xml
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\obj\Debug\TicTacToeEngine.vbproj.AssemblyReference.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\obj\Debug\TicTacToeEngine.Form1.resources
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\obj\Debug\TicTacToeEngine.Resources.resources
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\obj\Debug\TicTacToeEngine.vbproj.GenerateResource.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\obj\Debug\TicTacToeEngine.vbproj.CoreCompileInputs.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\obj\Debug\TicTacToeEngine.exe
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\obj\Debug\TicTacToeEngine.xml
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TicTacToeEngine\TicTacToeEngine\obj\Debug\TicTacToeEngine.pdb

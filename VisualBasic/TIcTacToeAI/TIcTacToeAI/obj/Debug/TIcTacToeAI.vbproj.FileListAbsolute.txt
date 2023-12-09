@@ -1,0 +1,12 @@
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\bin\Debug\TIcTacToeAI.exe.config
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\bin\Debug\TIcTacToeAI.exe
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\bin\Debug\TIcTacToeAI.pdb
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\bin\Debug\TIcTacToeAI.xml
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\obj\Debug\TIcTacToeAI.vbproj.AssemblyReference.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\obj\Debug\TIcTacToeAI.Form1.resources
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\obj\Debug\TIcTacToeAI.Resources.resources
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\obj\Debug\TIcTacToeAI.vbproj.GenerateResource.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\obj\Debug\TIcTacToeAI.vbproj.CoreCompileInputs.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\obj\Debug\TIcTacToeAI.exe
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\obj\Debug\TIcTacToeAI.xml
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\TIcTacToeAI\TIcTacToeAI\obj\Debug\TIcTacToeAI.pdb
