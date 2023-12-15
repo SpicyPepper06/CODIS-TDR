@@ -86,6 +86,7 @@ def CheckGameState(board):
     global GameRunning
     if CheckWinner(board):
         PrintBoard(board)
+        pygame.time.delay(2000)
         GameRunning=False
         print('El joc ha acabat')
         if currentPlayer=='O':
@@ -95,6 +96,7 @@ def CheckGameState(board):
         print(f'El guanyador és {currentPlayer}')
     elif CheckTie():
         PrintBoard(board)
+        pygame.time.delay(2000)
         GameRunning=False
         print('És un empat!')
 #randomMove AI
@@ -244,6 +246,8 @@ size=(width,height)
 turn=0
 screen=pygame.display.set_mode(size)
 draw_board(board)
+clock = pygame.time.Clock()
+
 pygame.display.update()
 while GameRunning:
        
@@ -251,22 +255,26 @@ while GameRunning:
     for event in pygame.event.get():
         if event.type==pygame.QUIT:
             sys.exit()
-        if event.type==pygame.MOUSEBUTTONDOWN:
             
-            posx=math.trunc(event.pos[0]/200)
-            posy=math.trunc(event.pos[1]/200)
-            signx_pos=posx*SQUARE+SQUARE/2 
-            signy_pos=posy*SQUARE+SQUARE/2
-            position=transformxy(int(posx),int(posy))
-            print(position)
-            if turn==0:
-                CorMove()
-            elif turn==1:
-                draw_o(position)
+        if turn==0:
+            pygame.time.delay(500)
+            CorMove()
             turn+=1
             turn=turn%2
-            pygame.display.update()
-            PrintBoard(board)
+        elif turn==1:
+            if event.type==pygame.MOUSEBUTTONDOWN:
+            
+                posx=math.trunc(event.pos[0]/200)
+                posy=math.trunc(event.pos[1]/200)
+                signx_pos=posx*SQUARE+SQUARE/2 
+                signy_pos=posy*SQUARE+SQUARE/2
+                position=transformxy(int(posx),int(posy))
+                if board[position] == '?':
+                    draw_o(position)
+                    turn+=1
+                    turn=turn%2
+        pygame.display.update()
+        
     # PrintBoard(board)
     
     # CheckTurn()
