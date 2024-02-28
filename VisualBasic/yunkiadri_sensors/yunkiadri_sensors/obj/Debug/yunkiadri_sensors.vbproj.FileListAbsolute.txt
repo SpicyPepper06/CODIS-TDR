@@ -1,0 +1,12 @@
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\bin\Debug\yunkiadri.exe.config
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\bin\Debug\yunkiadri.exe
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\bin\Debug\yunkiadri.pdb
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\bin\Debug\yunkiadri.xml
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\obj\Debug\yunkiadri_sensors.vbproj.AssemblyReference.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\obj\Debug\yunkiadri.Form1.resources
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\obj\Debug\yunkiadri.Resources.resources
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\obj\Debug\yunkiadri_sensors.vbproj.GenerateResource.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\obj\Debug\yunkiadri_sensors.vbproj.CoreCompileInputs.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\obj\Debug\yunkiadri.exe
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\obj\Debug\yunkiadri.xml
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri_sensors\yunkiadri_sensors\obj\Debug\yunkiadri.pdb

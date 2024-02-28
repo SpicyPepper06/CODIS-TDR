@@ -1,0 +1,12 @@
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\obj\Debug\yunkiadri.vbproj.AssemblyReference.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\obj\Debug\yunkiadri.Form1.resources
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\obj\Debug\yunkiadri.Resources.resources
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\obj\Debug\yunkiadri.vbproj.GenerateResource.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\obj\Debug\yunkiadri.vbproj.CoreCompileInputs.cache
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\bin\Debug\yunkiadri.exe.config
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\bin\Debug\yunkiadri.exe
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\bin\Debug\yunkiadri.pdb
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\bin\Debug\yunkiadri.xml
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\obj\Debug\yunkiadri.exe
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\obj\Debug\yunkiadri.xml
+C:\Users\yunpe\OneDrive\Documentos\Tdr\VisualBasic\yunkiadri\yunkiadri\obj\Debug\yunkiadri.pdb
